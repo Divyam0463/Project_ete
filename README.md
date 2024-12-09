@@ -53,3 +53,18 @@ This project is a React application that allows users to create handwriting-styl
 
 3. **Text-to-Speech:**
    - Click the "Speak Text" button to hear the text read aloud.
+  
+
+
+## IMPORTANT NOTES
+
+1. ** Pls downgrade your node version to 17 for smooth expreince **
+2. you can do so by installing nvm in windows manualy running following commands
+
+```bash
+nvm install 17
+```
+and switch to version 17 by using command
+```bash
+nvm use 17
+```
